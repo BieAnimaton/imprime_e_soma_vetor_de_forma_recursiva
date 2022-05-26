@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653558974 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\codigos\imprimir_e_somar_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1653559451 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\codigos\recursão\imprimir_e_somar_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
